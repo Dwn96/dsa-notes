@@ -1,0 +1,297 @@
+{
+  "main": {
+    "id": "583f15fb0787e1ca",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd03e4c9ae497f5b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "15005331070e6eeb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 pointer/Two Integer Sum II.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Two Integer Sum II"
+            }
+          },
+          {
+            "id": "d136b10bcc0eb382",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Arrays & Hashing/Valid Sudoku.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Valid Sudoku"
+            }
+          },
+          {
+            "id": "b71174b0eaac5adb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Retro/07-10-2026 @  10.08 AM.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "07-10-2026 @  10.08 AM"
+            }
+          },
+          {
+            "id": "5dfabd3c7844c068",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 pointer/3Sum.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3Sum"
+            }
+          },
+          {
+            "id": "aee309e1757027b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Arrays & Hashing/Longest Consecutive Sequence.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Longest Consecutive Sequence"
+            }
+          },
+          {
+            "id": "baa0e99261c43614",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sorting/JS Array.sort function.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "JS Array.sort function"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c5838501087b0086",
+    "type": "split",
+    "children": [
+      {
+        "id": "da32b28b39d62c98",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "07845b53351fd3b9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "14bfac10e8fe3aa3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d82c13f21711dee0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c7e27863c6204480",
+    "type": "split",
+    "children": [
+      {
+        "id": "ce2a1e7d28079640",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "14daf122aecb689c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Retro/2026-09-30.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "cc2faac1d9b46789",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Retro/2026-09-30.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "90124828112b4ea3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b8f397c467e784fa",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "0865748364cea40d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Retro/2026-09-30.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "baa0e99261c43614",
+  "lastOpenFiles": [
+    "README.md",
+    "READme.md",
+    "Decode & encode strings.md",
+    "Arrays & Hashing/Decode & encode strings.md",
+    "Arrays & Hashing/Longest Consecutive Sequence.md",
+    "2 pointer/Two Integer Sum II.md",
+    "Stacks/Daily temperatures.md",
+    "2 pointer/Container that can hold the most water.md",
+    "2 pointer/3Sum.md",
+    "Stacks/Largest rectangle area in a histogram.md",
+    "Stacks/Car fleet.md",
+    "Sorting/JS Array.sort function.md",
+    "Sorting",
+    "Retro/07-10-2026 @  10.08 AM.md",
+    "Retro/2026-09-30.md",
+    "Retro/06-10-2026 @  10.08 AM.md",
+    "Arrays & Hashing/Valid Anagram.md",
+    "Arrays & Hashing/Valid Sudoku.md",
+    "Arrays & Hashing/2Sum.md",
+    "2 pointer/Valid palindrome.md",
+    "2 pointer",
+    "Stacks/Reverse polish notation.md",
+    "Stacks/Matching parentheses.md",
+    "Stacks/Monotonic Stack.md",
+    "Stacks/Minstack.md",
+    "Untitled.base",
+    "2026-09-30.md",
+    "Retro",
+    "Stacks",
+    "Welcome.md",
+    "Untitled 1",
+    "Arrays & Hashing"
+  ]
+}
