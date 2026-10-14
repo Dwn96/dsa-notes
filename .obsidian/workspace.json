@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arrays & Hashing/Top K frequent elements.md",
+                "file": "Arrays & Hashing/Group anagrams.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Top K frequent elements"
+              "title": "Group anagrams"
             }
           }
         ],
@@ -233,10 +233,10 @@
   },
   "active": "07845b53351fd3b9",
   "lastOpenFiles": [
-    "Arrays & Hashing/238. Product of Array Except Self.md",
     "Arrays & Hashing/Top K frequent elements.md",
+    "Arrays & Hashing/238. Product of Array Except Self.md",
     "2 pointer/Valid palindrome.md",
-    "Group anagrams.md",
+    "Arrays & Hashing/Group anagrams.md",
     "Arrays & Hashing/2Sum.md",
     "Binary Search/Binary search 2D array (matrix).md",
     "Binary Search/Binary search.md",
