@@ -8,119 +8,63 @@
         "type": "tabs",
         "children": [
           {
-            "id": "15005331070e6eeb",
+            "id": "d03a76dd8bc3e7f9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 pointer/Two Integer Sum II.md",
+                "file": "Binary Search/Binary search.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Two Integer Sum II"
+              "title": "Binary search"
             }
           },
           {
-            "id": "d136b10bcc0eb382",
+            "id": "290d1892cf45f749",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arrays & Hashing/Valid Sudoku.md",
+                "file": "Arrays & Hashing/2Sum.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Valid Sudoku"
+              "title": "2Sum"
             }
           },
           {
-            "id": "b71174b0eaac5adb",
+            "id": "3717cddaec17ee6e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Retro/07-10-2026 @  10.08 AM.md",
+                "file": "Arrays & Hashing/238. Product of Array Except Self.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "07-10-2026 @  10.08 AM"
+              "title": "238. Product of Array Except Self"
             }
           },
           {
-            "id": "5dfabd3c7844c068",
+            "id": "bbacf8f65484a644",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 pointer/3Sum.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "3Sum"
-            }
-          },
-          {
-            "id": "aee309e1757027b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Arrays & Hashing/Longest Consecutive Sequence.md",
+                "file": "Arrays & Hashing/Top K frequent elements.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Longest Consecutive Sequence"
-            }
-          },
-          {
-            "id": "baa0e99261c43614",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 pointer/Two Integer Sum II.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Two Integer Sum II"
-            }
-          },
-          {
-            "id": "64b656a3f4a48e04",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Arrays & Hashing/Trapping rainwater.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Trapping rainwater"
-            }
-          },
-          {
-            "id": "dffca0ac02756d5c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Arrays & Hashing/Trapping rainwater.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Trapping rainwater"
+              "title": "Top K frequent elements"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -287,14 +231,22 @@
       "bases:Create new base": false
     }
   },
-  "active": "dffca0ac02756d5c",
+  "active": "07845b53351fd3b9",
   "lastOpenFiles": [
     "Arrays & Hashing/238. Product of Array Except Self.md",
+    "Arrays & Hashing/Top K frequent elements.md",
+    "2 pointer/Valid palindrome.md",
+    "Group anagrams.md",
+    "Arrays & Hashing/2Sum.md",
+    "Binary Search/Binary search 2D array (matrix).md",
+    "Binary Search/Binary search.md",
+    "Stacks/Reverse polish notation.md",
+    "2 pointer/Two Integer Sum II.md",
+    "README.md",
+    "Binary Search",
     "Arrays & Hashing/Trapping rainwater.md",
     "Untitled 1.md",
-    "2 pointer/Two Integer Sum II.md",
     "Sorting/JS Array.sort function.md",
-    "README.md",
     "READme.md",
     "Decode & encode strings.md",
     "Arrays & Hashing/Decode & encode strings.md",
@@ -309,14 +261,7 @@
     "Retro/2026-09-30.md",
     "Retro/06-10-2026 @  10.08 AM.md",
     "Arrays & Hashing/Valid Anagram.md",
-    "Arrays & Hashing/Valid Sudoku.md",
-    "Arrays & Hashing/2Sum.md",
-    "2 pointer/Valid palindrome.md",
     "2 pointer",
-    "Stacks/Reverse polish notation.md",
-    "Stacks/Matching parentheses.md",
-    "Stacks/Monotonic Stack.md",
-    "Stacks/Minstack.md",
     "Untitled.base",
     "Retro",
     "Stacks",

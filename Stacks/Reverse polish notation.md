@@ -1,6 +1,6 @@
 The trick is to iterate over the tokens while pushing Numbers into the stack.
 Create a map of operators
-```
+```js
 const operands = {
 
 '-' : (num1,num2) => (num1 - num2),
@@ -14,8 +14,8 @@ const operands = {
 }
 ```
 
-Btw ensure that we maintain the commutativeness of operations like this. Since a stack is LIFO, the right hand operand will be the first to be popped, then the right hand
-```
+Btw ensure that we maintain the commutativeness of operations like this. Since a stack is LIFO, the right hand operand will be the first to be popped, then the left hand
+```js
 const num2 = stack.pop()
 
 const num1 = stack.pop()
@@ -23,7 +23,7 @@ const num1 = stack.pop()
 
 Full code:
 
-```
+```js
 class Solution {
 
 /**

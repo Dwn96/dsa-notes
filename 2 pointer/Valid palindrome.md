@@ -1,7 +1,7 @@
 This one is pretty straight forward. 
 We essentially use some regex to sanitize the string and remove any non-alphanumeric bits
 ```js
-s = s.toLowerCase().replace(\[^a-z0-9]\g, '')
+s = s.toLowerCase().replace(/[^a-z0-9]/g, '')
 ```
 Then we initialize 2 pointers left and right to traverse the string
 ```js
