@@ -1,5 +1,5 @@
-So the trick here is that we ALWAYS want to use the maximum height.
-We declare to pointers i and j
+So the trick here is that we ALWAYS want to use the min  height.
+We declare two pointers i and j
 
 
 ```js
