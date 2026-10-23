@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sliding window/Best time to buy & sell stock.md",
+                "file": "Stacks/Minstack.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Best time to buy & sell stock"
+              "title": "Minstack"
             }
           }
         ],
@@ -275,13 +275,16 @@
   },
   "active": "49b6e66ea87a4ef6",
   "lastOpenFiles": [
+    "Stacks/Matching parentheses.md",
+    "Stacks/Largest rectangle area in a histogram.md",
+    "Arrays & Hashing/Valid Anagram.md",
+    "Sliding window/Best time to buy & sell stock.md",
     "2 pointer/Valid palindrome.md",
     "Binary Search/Koko eating bananas.md",
     "Arrays & Hashing/Longest Consecutive Sequence.md",
     "Sliding window/Permutation in String.md",
     "Binary Search/Search in Rotated Sorted Array.md",
     "Sliding window/424. Longest Repeating Character Replacement.md",
-    "Sliding window/Best time to buy & sell stock.md",
     "Binary Search/Find Minimum in Rotated Sorted Array.md",
     "Binary Search/Binary search 2D array (matrix).md",
     "Binary Search/Median of two sorted arrays.md",
@@ -292,13 +295,10 @@
     "Sliding window",
     "Stacks/Car fleet.md",
     "Stacks/Daily temperatures.md",
-    "Arrays & Hashing/Valid Anagram.md",
     "2 pointer/3Sum.md",
     "Arrays & Hashing/Decode & encode strings.md",
     "Arrays & Hashing/Valid Sudoku.md",
     "2 pointer/Container that can hold the most water.md",
-    "Stacks/Largest rectangle area in a histogram.md",
-    "Stacks/Matching parentheses.md",
     "Arrays & Hashing/238. Product of Array Except Self.md",
     "Arrays & Hashing/Group anagrams.md",
     "Arrays & Hashing/Top K frequent elements.md",

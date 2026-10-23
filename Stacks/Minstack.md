@@ -1,48 +1,38 @@
 To do this at constant time, we want to maintain both a stack and a minstack that keeps track of the current smallest. 
 
-```
-constructor () // i had forgotten how to do this lmao
-{
-	this.minStack = []
-	this.stack = []
-}
-```
+```js
 
-getMin is just an index into the minStack: 
-```
-getMin() {
-	return this.minStack(this.minStack[this.minStack.length -1])
-}
-```
+class MinStack {
+    constructor() {
+        this.stack = [];
+        this.minStack = [];
+    }
 
-pop removes elements from both the minstack and the stack
-```
-pop() {
+    push(value) {
+        this.stack.push(value);
 
-	if(this.stack.length === 0) return null
-	
-	this.minStack.pop()
-	
-	return this.stack.pop()
+        // Check if minStack is empty, or if value is less than or equal to current minimum
+        if (this.minStack.length === 0 || value <= this.getMin()) {
+            this.minStack.push(value);
+        }
+    }
 
-}
-```
+    pop() {
+        const popped = this.stack.pop();
 
-push pushes  (lol) the value  into both minstack and stack
+        // If the popped element matches the current minimum, pop it from minStack too
+        if (popped === this.getMin()) {
+            this.minStack.pop();
+        }
+    }
 
-```
-push (val) {
+    top() {
+        return this.stack[this.stack.length - 1];
+    }
 
-	if(this.stack.length === 0) {	
-		this.stack.push(val)
-		this.minStack.push(val)		
-	}
-	else {
-		this.stack.push(val)
-		this.minStack.push(Math.min(val, this.getMin()))
-		
-	}
-
+    getMin() {
+        return this.minStack[this.minStack.length - 1];
+    }
 }
 
 ```
