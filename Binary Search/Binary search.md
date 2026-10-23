@@ -4,6 +4,8 @@ Important difference:  We use `while(i <= j)`  because when `i` and `j` eventual
 
 If you use `i < j`, the loop will terminate before checking that final single-element window. This means if your target happens to be at that exact last index, the algorithm will skip it and incorrectly return that the element was not found.
 
+**Binary search** is **O(log n)** in both the average and worst cases
+
 ```js
 const binarySearch = (arr, target) => {
 	let i = 0

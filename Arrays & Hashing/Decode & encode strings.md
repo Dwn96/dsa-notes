@@ -30,7 +30,7 @@ const decode = (str) => {
 	let res = []
 	let i = 0
 	
-	while(i , str.length) {
+	while(i < str.length) {
 		let hashPos = str.indexOf('#', i)
 		
 		let len = Number(str.slice(i, hashPos))

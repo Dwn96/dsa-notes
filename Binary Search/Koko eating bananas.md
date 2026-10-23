@@ -20,6 +20,10 @@ minEatingSpeed(piles, h) {
 		}
 		
 		if(hrs <= h) {
+			/*
+			When a speed is valid, we pull `right` down to `mid` to 
+			search for a smaller valid speed
+			*/
 			right = mid
 		}
 		else {
