@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stacks/Minstack.md",
+                "file": "Linked List/Copy List with Random Pointer (O(1) Space).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Minstack"
+              "title": "Copy List with Random Pointer (O(1) Space)"
             }
           }
         ],
@@ -140,7 +140,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "histo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -168,7 +168,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 341.77734375
+    "width": 339.32421875
   },
   "right": {
     "id": "c7e27863c6204480",
@@ -275,40 +275,41 @@
   },
   "active": "49b6e66ea87a4ef6",
   "lastOpenFiles": [
-    "Stacks/Matching parentheses.md",
-    "Stacks/Largest rectangle area in a histogram.md",
-    "Arrays & Hashing/Valid Anagram.md",
-    "Sliding window/Best time to buy & sell stock.md",
+    "Linked List/Reorder list.md",
+    "Linked List/Copy List with Random Pointer (O(1) Space).md",
+    "2 pointer/Container that can hold the most water.md",
+    "Linked List/Merge two sorted lists.md",
+    "Sliding window/Sliding window maximum.md",
+    "Linked List/Remove Nth node from list.md",
+    "Linked List/Reverse linked list.md",
     "2 pointer/Valid palindrome.md",
-    "Binary Search/Koko eating bananas.md",
-    "Arrays & Hashing/Longest Consecutive Sequence.md",
-    "Sliding window/Permutation in String.md",
-    "Binary Search/Search in Rotated Sorted Array.md",
+    "2 pointer/Two Integer Sum II.md",
+    "2 pointer/3Sum.md",
+    "Sliding window/76. Minimum Window Substring.md",
+    "Linked List/Has cycle.md",
     "Sliding window/424. Longest Repeating Character Replacement.md",
-    "Binary Search/Find Minimum in Rotated Sorted Array.md",
-    "Binary Search/Binary search 2D array (matrix).md",
+    "Sliding window/Longest substring without repeating characters.md",
     "Binary Search/Median of two sorted arrays.md",
+    "Sliding window/Permutation in String.md",
+    "Stacks/Largest rectangle area in a histogram.md",
+    "Stacks/Car fleet.md",
+    "Arrays & Hashing/Valid Anagram.md",
+    "Arrays & Hashing/Decode & encode strings.md",
+    "Sliding window/Best time to buy & sell stock.md",
+    "Arrays & Hashing/Trapping rainwater.md",
+    "Binary Search/Binary search 2D array (matrix).md",
     "Binary Search/Binary search.md",
     "Binary Search/Time Based Key-Value Store.md",
-    "Arrays & Hashing/Trapping rainwater.md",
-    "README.md",
+    "Binary Search/Search in Rotated Sorted Array.md",
+    "Linked List",
+    "Data Structures",
     "Sliding window",
-    "Stacks/Car fleet.md",
-    "Stacks/Daily temperatures.md",
-    "2 pointer/3Sum.md",
-    "Arrays & Hashing/Decode & encode strings.md",
-    "Arrays & Hashing/Valid Sudoku.md",
-    "2 pointer/Container that can hold the most water.md",
-    "Arrays & Hashing/238. Product of Array Except Self.md",
-    "Arrays & Hashing/Group anagrams.md",
-    "Arrays & Hashing/Top K frequent elements.md",
     "Binary Search",
     "Sorting",
     "2 pointer",
     "Untitled.base",
     "Retro",
     "Stacks",
-    "Untitled 1",
-    "Arrays & Hashing"
+    "Untitled 1"
   ]
 }

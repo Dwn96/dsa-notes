@@ -35,42 +35,32 @@ $$i < j < k$$
 
 for(let i = 0; i < nums.length -2; i++) {
 
-let j = i + 1
-
-let k = nums.length - 1
+	let j = i + 1
+	let k = nums.length - 1
 
 /* 
  dedeuplication logic, no need to go over the same value we did
 on the prev iteration, just continue 
 */
 
-if(i > 0 && nums[i] === nums[i - 1]) continue
+	if(i > 0 && nums[i] === nums[i - 1]) continue
 
   
 
-while(j < k) {
-
-const sum = nums[i] + nums[j] + nums[k]
-
-  
-
-if(sum === 0 ) {
-
-res.push([nums[i], nums[j], nums[k]])
-
-  
-
-while(nums[j] === nums[j+1]) j++  // more dedupes
-
-while(nums[k] === nums[k-1]) k-- // more dedupes
-
-  
-
-j++
-
-k--
-
-}
+	while(j < k) {
+	
+		const sum = nums[i] + nums[j] + nums[k]		  
+		
+		if(sum === 0 ) {		
+			res.push([nums[i], nums[j], nums[k]])			  
+			
+			while(nums[j] === nums[j+1]) j++  // more dedupes		
+			while(nums[k] === nums[k-1]) k-- // more dedupes
+			
+			j++		
+			k--
+	
+	}
 
 /*
 if sum < 0 it means we've undershot our target  so lets increment
@@ -78,25 +68,16 @@ our j to a bigger value and re-evaluate
 
 */
 
-else if ( sum < 0) {
-
-j++  
-
-} else { // overshot, lets  move to a smaller value
-
-k--
-
+	else if ( sum < 0) {	
+		j++  	
+	} else { // overshot, lets  move to a smaller value	
+		k--	
+	}	
 }
+	
+}  
 
-  
-
-}
-
-}
-
-  
-
-return res
+	return res
 
 }
 ```

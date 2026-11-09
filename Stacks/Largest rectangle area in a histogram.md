@@ -1,7 +1,9 @@
-So what we're essentially doing is performing 2 passes and computing **Nearest Smallest Number to the left **  then  **Nearest Smallest Number to the right**
+So what we're essentially doing is performing 2 passes and computing **Nearest Smallest Number to the left   then  **Nearest Smallest Number to the right**
+
+**Very Important!! - Clear the stack after building the left array!**
 
 Initialize 2 arrays
-```
+```js
 const n = heights.length
 const left = new Array(n)
 const right = new Array(n)

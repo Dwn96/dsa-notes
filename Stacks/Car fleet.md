@@ -1,4 +1,4 @@
-```
+```js
 class Solution {
 
 carFleet(target, position, speed) {
