@@ -16,7 +16,7 @@ A normal array is between 0 and n-1
 ```js
 for(let i = 0; i < n; i++) {
 	
-	if(stack.length && heights[stack[stack.length - 1] >=  heights[i]]) {		
+	while(stack.length && heights[stack[stack.length - 1] >=  heights[i]]) {	
 		pop()
 	}
 	
@@ -39,7 +39,7 @@ Then we do our right pass. Notice how we set the right[i] value to n if the stac
 ```js
 for(let i = n-1; i > -1; i--) {
 	
-	if(stack.length && heights[stack[stack.length - 1] >=  heights[i]]) {		
+	while(stack.length && heights[stack[stack.length - 1] >=  heights[i]]) {		
 		pop()
 	}
 	
@@ -64,7 +64,7 @@ Then we compute our areas
 let maxArea = 0
 for(let i = 0; i < n; i++) {
 
-	const width = right - left - 1
+	const width = right[i] - left[i] - 1
 	const currentArea = width * heights[i]
 	
 	maxArea = Math.max(currentArea, maxArea)

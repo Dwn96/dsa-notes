@@ -4,109 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "bd03e4c9ae497f5b",
+        "id": "39baab282545dba7",
         "type": "tabs",
         "children": [
           {
-            "id": "d03a76dd8bc3e7f9",
+            "id": "6b2bc7311c4d5180",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Binary Search/Binary search.md",
+                "file": "Binary Search/Koko eating bananas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Binary search"
-            }
-          },
-          {
-            "id": "290d1892cf45f749",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Arrays & Hashing/2Sum.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2Sum"
-            }
-          },
-          {
-            "id": "3717cddaec17ee6e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Arrays & Hashing/238. Product of Array Except Self.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "238. Product of Array Except Self"
-            }
-          },
-          {
-            "id": "bbacf8f65484a644",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stacks/Largest rectangle area in a histogram.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Largest rectangle area in a histogram"
-            }
-          },
-          {
-            "id": "863b269bf8426592",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Binary Search/Binary search.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Binary search"
-            }
-          },
-          {
-            "id": "514a1f2e6aa506d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sliding window/Best time to buy & sell stock.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Best time to buy & sell stock"
-            }
-          },
-          {
-            "id": "49b6e66ea87a4ef6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linked List/Copy List with Random Pointer (O(1) Space).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Copy List with Random Pointer (O(1) Space)"
+              "title": "Koko eating bananas"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -140,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "histo",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -273,34 +188,34 @@
       "bases:Create new base": false
     }
   },
-  "active": "49b6e66ea87a4ef6",
+  "active": "6b2bc7311c4d5180",
   "lastOpenFiles": [
+    "Linked List/Add 2 numbers.md",
     "Linked List/Reorder list.md",
-    "Linked List/Copy List with Random Pointer (O(1) Space).md",
-    "2 pointer/Container that can hold the most water.md",
-    "Linked List/Merge two sorted lists.md",
     "Sliding window/Sliding window maximum.md",
     "Linked List/Remove Nth node from list.md",
+    "Sliding window/424. Longest Repeating Character Replacement.md",
+    "Linked List/Has cycle.md",
+    "Linked List/Find duplicate.md",
+    "Stacks/Minstack.md",
     "Linked List/Reverse linked list.md",
+    "Stacks/Largest rectangle area in a histogram.md",
+    "Binary Search/Find Minimum in Rotated Sorted Array.md",
+    "Binary Search/Binary search.md",
+    "Binary Search/Binary search 2D array (matrix).md",
+    "Binary Search/Koko eating bananas.md",
+    "Binary Search/Median of two sorted arrays.md",
+    "Binary Search/Search in Rotated Sorted Array.md",
+    "Binary Search/Time Based Key-Value Store.md",
+    "Arrays & Hashing/Trapping rainwater.md",
+    "2 pointer/Container that can hold the most water.md",
+    "Sliding window/Best time to buy & sell stock.md",
+    "Linked List/Copy List with Random Pointer (O(1) Space).md",
+    "Linked List/Merge two sorted lists.md",
     "2 pointer/Valid palindrome.md",
     "2 pointer/Two Integer Sum II.md",
     "2 pointer/3Sum.md",
     "Sliding window/76. Minimum Window Substring.md",
-    "Linked List/Has cycle.md",
-    "Sliding window/424. Longest Repeating Character Replacement.md",
-    "Sliding window/Longest substring without repeating characters.md",
-    "Binary Search/Median of two sorted arrays.md",
-    "Sliding window/Permutation in String.md",
-    "Stacks/Largest rectangle area in a histogram.md",
-    "Stacks/Car fleet.md",
-    "Arrays & Hashing/Valid Anagram.md",
-    "Arrays & Hashing/Decode & encode strings.md",
-    "Sliding window/Best time to buy & sell stock.md",
-    "Arrays & Hashing/Trapping rainwater.md",
-    "Binary Search/Binary search 2D array (matrix).md",
-    "Binary Search/Binary search.md",
-    "Binary Search/Time Based Key-Value Store.md",
-    "Binary Search/Search in Rotated Sorted Array.md",
     "Linked List",
     "Data Structures",
     "Sliding window",

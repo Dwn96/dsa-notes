@@ -7,7 +7,7 @@ minEatingSpeed(piles, h) {
 	let left = 1
 	let right = Math.max(...piles)
 	
-	while(left < right) {
+	while(left <= right) {
 	
 		let mid = Math.floor((left+right)/2)
 		
@@ -24,7 +24,7 @@ minEatingSpeed(piles, h) {
 			When a speed is valid, we pull `right` down to `mid` to 
 			search for a smaller valid speed
 			*/
-			right = mid
+			right = mid - 1
 		}
 		else {
 			/*
