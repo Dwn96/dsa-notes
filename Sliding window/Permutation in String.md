@@ -19,7 +19,7 @@ if(this.arraysEqual(s1Count,windowCount)) return true
 
 ```
 
-Then we can start sliding our window, since we've already checks the first s1.length chars our 2nd pass needs to start from index s1.length
+Then we can start sliding our window, since we've already checked the first s1.length chars our 2nd pass needs to start from index s1.length
 
 ```js
 

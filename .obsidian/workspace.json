@@ -4,109 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "bd03e4c9ae497f5b",
+        "id": "39baab282545dba7",
         "type": "tabs",
         "children": [
           {
-            "id": "d03a76dd8bc3e7f9",
+            "id": "6b2bc7311c4d5180",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Binary Search/Binary search.md",
+                "file": "Trees/Count Good Nodes in Binary Tree.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Binary search"
-            }
-          },
-          {
-            "id": "290d1892cf45f749",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Arrays & Hashing/2Sum.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2Sum"
-            }
-          },
-          {
-            "id": "3717cddaec17ee6e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Arrays & Hashing/238. Product of Array Except Self.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "238. Product of Array Except Self"
-            }
-          },
-          {
-            "id": "bbacf8f65484a644",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stacks/Largest rectangle area in a histogram.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Largest rectangle area in a histogram"
-            }
-          },
-          {
-            "id": "863b269bf8426592",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Binary Search/Binary search.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Binary search"
-            }
-          },
-          {
-            "id": "514a1f2e6aa506d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sliding window/Best time to buy & sell stock.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Best time to buy & sell stock"
-            }
-          },
-          {
-            "id": "49b6e66ea87a4ef6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Trees/Max depth of  a binary tree.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Max depth of  a binary tree"
+              "title": "Count Good Nodes in Binary Tree"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -168,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 341.77734375
+    "width": 339.32421875
   },
   "right": {
     "id": "c7e27863c6204480",
@@ -273,37 +188,37 @@
       "bases:Create new base": false
     }
   },
-  "active": "49b6e66ea87a4ef6",
+  "active": "6b2bc7311c4d5180",
   "lastOpenFiles": [
+    "Trees/Binary Tree Right Side View (LeetCode 199).md",
+    "Trees/Binary Tree Level Order Traversal (BFS).md",
+    "Trees/Balanced binary tree.md",
+    "Trees/Same binary tree.md",
     "Trees/Invert binary tree.md",
-    "Trees/Max depth of  a binary tree.md",
-    "Stacks/Minstack.md",
-    "Trees",
-    "Sliding window/Sliding window maximum.md",
-    "Sliding window/Longest substring without repeating characters.md",
+    "Trees/Diameter of a binary tree.md",
+    "Trees/Count Good Nodes in Binary Tree.md",
     "Sliding window/76. Minimum Window Substring.md",
-    "Linked List/Reverse linked list.md",
+    "Trees/Valid Binary Search Tree.md",
     "Linked List/Reorder list.md",
-    "Linked List/Merge two sorted lists.md",
-    "Linked List/Remove Nth node from list.md",
+    "Trees/Subtree of another tree.md",
+    "Linked List/Reverse nodes in K Group.md",
+    "Trees/Lowest Common Ancestor in Binary Search Tree.md",
+    "Binary Search/Median of two sorted arrays.md",
+    "Linked List/Merge K sorted lists.md",
     "Linked List/Has cycle.md",
-    "Linked List/Copy List with Random Pointer (O(1) Space).md",
-    "Linked List/Find duplicate.md",
-    "Linked List/Add 2 numbers.md",
-    "Linked List",
+    "Sliding window/Permutation in String.md",
+    "Data Structures/Binary Search Tree.md",
     "Data Structures/Stack.md",
     "Data Structures/Linked list.md",
     "Data Structures/Deque.md",
-    "Data Structures",
+    "Trees/Max depth of  a binary tree.md",
+    "Linked List/Remove Nth node from list.md",
+    "Trees",
+    "Stacks/Reverse polish notation.md",
     "Stacks/Matching parentheses.md",
-    "Stacks/Largest rectangle area in a histogram.md",
-    "Arrays & Hashing/Valid Anagram.md",
-    "Sliding window/Best time to buy & sell stock.md",
-    "2 pointer/Valid palindrome.md",
-    "Binary Search/Koko eating bananas.md",
-    "Arrays & Hashing/Longest Consecutive Sequence.md",
-    "Sliding window/Permutation in String.md",
-    "Binary Search/Search in Rotated Sorted Array.md",
+    "Linked List/Find duplicate.md",
+    "Linked List",
+    "Data Structures",
     "Sliding window",
     "Binary Search",
     "Sorting",
